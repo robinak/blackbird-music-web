@@ -1,0 +1,33 @@
+/* app css stylesheet */
+
+body {
+  padding: 20px;
+  background-color: black;
+}
+
+hr {
+  border-width: 4px;
+  border-color: #222222;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+.tracks {
+  list-style: none;
+  background-color: #131313;
+  padding: 10px;
+  border: 5px solid;
+  border-color: white;
+  border-radius: 25px;
+}
+
+.tracks li {
+  clear: both;
+  margin: 15px;
+  height: 200px;
+}
+
+h1 {
+  color: white;
+  margin-bottom: 3;
+}
