@@ -29,5 +29,10 @@ hr {
 
 h1 {
   color: white;
+  font-size: 64px;
+}
+
+h2 {
+  color: white;
   margin-bottom: 3;
 }
