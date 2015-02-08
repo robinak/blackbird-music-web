@@ -12,19 +12,19 @@ hr {
   margin-bottom: 30px;
 }
 
-.tracks {
-  list-style: none;
-  background-color: #131313;
-  padding: 10px;
-  border: 5px solid;
-  border-color: white;
-  border-radius: 25px;
+ul {
+    list-style: none;
+    background-color: #131313;
+    padding: 10px;
+    border: 5px solid;
+    border-color: #222222;
+    border-radius: 25px;
 }
 
 .tracks li {
   clear: both;
   margin: 15px;
-  height: 200px;
+
 }
 
 h1 {
